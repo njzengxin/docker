@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/heapster-s390x:v1.5.4
+MAINTAINER zengxin
